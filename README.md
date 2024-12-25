@@ -1,7 +1,7 @@
 # English-Language-C
-This is an assignment from AUCSC 370 at UOFA
-Changes the english language based on a set of rules
-
+This is an assignment from AUCSC 370 at UOFA.
+Changes the english language based on a set of rules.
+Uses an implementation of a singularly linked list to manipulate words.
 # How the language is changed
 
 Year 1
